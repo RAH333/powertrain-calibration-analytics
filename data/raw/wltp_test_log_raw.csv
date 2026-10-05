@@ -4,6 +4,3 @@ timestamp,engine_speed_rpm,engine_load_pct,lambda_sensor,egt_c,nox_ppm
 1.0,2500,72.1,0.890,780.4,85.6
 1.5,3500,85.0,0.840,965.0,145.2
 2.0,1500,20.1,1.010,510.1,18.9
-
-
-# A sample raw sensor dataset simulating an export from calibration software like INCA during a WLTP emission cycle test.
