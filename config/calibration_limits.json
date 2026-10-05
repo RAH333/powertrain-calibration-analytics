@@ -1,0 +1,9 @@
+{
+  "max_allowed_lambda": 1.05,
+  "min_allowed_lambda": 0.85,
+  "max_exhaust_gas_temp_c": 950.0,
+  "max_engine_speed_rpm": 6500,
+  "target_nox_g_km": 0.060
+}
+
+# This file simulates configuration limits used in vehicle calibration to validate engine safety thresholds during automation.
