@@ -16,8 +16,8 @@ This repository provides an end-to-end Python pipeline engineered for **Automoti
 
 ## Installation & Execution
 ```
-# 1. Clone this repo: `
-git clone 
+# 1. Clone this repo:
+git clone https://github.com/RAH333/powertrain-calibration-analytics.git
 # 2. Install dependencies:
 pip install -r requirements.txt
 # 3. Execute analysis pipeline:
