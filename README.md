@@ -1,3 +1,5 @@
+![Automated Powertrain Calibration & Emission Analysis Tool](assets/PtCA.jpg)
+
 # powertrain-calibration-analytics
 Automated Engine Calibration &amp; Emission Data Analysis Pipeline. 
 
