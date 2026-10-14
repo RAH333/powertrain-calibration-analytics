@@ -15,11 +15,15 @@ This repository provides an end-to-end Python pipeline engineered for **Automoti
 - **RCA Automation**: Maps issues directly to optimization actions using engineering-driven scripts.
 
 ## Installation & Execution
-1. Clone this repo: `git clone https://github.com`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Execute analysis pipeline: `python main.py`
+```
+# 1. Clone this repo: `
+git clone 
+# 2. Install dependencies:
+pip install -r requirements.txt
+# 3. Execute analysis pipeline:
+python main.py
 
-
+```
 
 ```
 powertrain-calibration-analytics/
